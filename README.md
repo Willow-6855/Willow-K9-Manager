@@ -1,7 +1,7 @@
 **Usage :hammer_and_wrench: :**
 
-To use the resource, download it, put the `mth-K9` folder in your main resources folder.
-Add `start mth-K9` to your server.cfg
+To use the resource, download it, put the `/Willow-K9-Manager` folder in your main resources folder.
+Add `start Willow-K9-Manager` to your server.cfg
 Then, once you're in game, press O to toggle the menu.
 
 **Features :sparkles: :**
