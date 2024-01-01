@@ -1,8 +1,8 @@
 fx_version 'adamant'
 game 'gta5'
 
-name "Willow K9 Manager"
-description "Menu to spawn and manage your K9"
+name "Willow Development K9 Manager"
+description "A FiveM LEO K9 Manager"
 author "Willow Development"
 "
 version "1.0.0"
