@@ -1,8 +1,5 @@
--- CONFIG --
 
 local config_select = false -- true = select the target, false = auto target the player in front
-
--- END OF CONFIG --
 
 local dogBreeds = { 'Rottweiler', 'Husky', 'Retriever', 'Shepherd' }
 local dogBHash = { 'a_c_rottweiler', 'a_c_husky', 'a_c_retriever', 'a_c_shepherd' }
