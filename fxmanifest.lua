@@ -4,7 +4,6 @@ game 'gta5'
 name "Willow Development K9 Manager"
 description "A LEO K9 Manager"
 author "Willow Development"
-"
 version "1.0.0"
 
 client_scripts {
