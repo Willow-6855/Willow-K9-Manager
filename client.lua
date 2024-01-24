@@ -1,8 +1,8 @@
 
 local config_select = false -- true = select the target, false = auto target the player in front
 
-local dogBreeds = { 'Rottweiler', 'Husky', 'Retriever', 'Shepherd' }
-local dogBHash = { 'a_c_rottweiler', 'a_c_husky', 'a_c_retriever', 'a_c_shepherd' }
+local dogBreeds = { 'Rottweiler', 'Husky', 'Retriever', 'Shepherd', 'SASP', 'LSPD', 'BCSO', }
+local dogBHash = { 'a_c_rottweiler', 'a_c_husky', 'a_c_retriever', 'a_c_shepherd', 'a_c_sasp', 'a_c_lspd', 'a_c_bcso', }
 
 local k9 = nil
 local k9Name = nil
